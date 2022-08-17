@@ -1,2 +1,2 @@
 # Gaming-Website
-This repository is website assets for my currently unnameed games website.
+This repository is website assets for my currently unnamed games website.
