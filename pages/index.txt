@@ -3,5 +3,6 @@
     <title>Games Website- Home</title> 
   </head>
   <body>
+  <p>Text</p>
   </body>
 </html>
